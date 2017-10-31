@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="switch_remember">Remember</string>
+    <string name="button_log_in">Log In</string>
+    <string name="hint_password">password</string>
+    <string name="hint_example">example@mail.com</string>
+    <string name="loggy_main_activity">Loggy Main Activity</string>
+</resources>
